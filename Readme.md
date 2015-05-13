@@ -1,4 +1,4 @@
 # Paillier speedtest
 
-Almost trivial paillier speedtest based on [libpailler](http://acsc.cs.utexas.edu/libpaillier/).
+Almost trivial paillier homomorphic encryption speedtest based on [libpaillier](http://acsc.cs.utexas.edu/libpaillier/).
 
