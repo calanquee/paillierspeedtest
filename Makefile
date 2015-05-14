@@ -2,4 +2,4 @@
 
 
 all:
-	gcc -O3 -lgmp -Wall main.c paillier.c -o speedtest
+	gcc -O3 -march=native -mtune=native -lgmp -Wall main.c paillier.c -o speedtest
